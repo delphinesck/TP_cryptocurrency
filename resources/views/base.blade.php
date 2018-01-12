@@ -24,5 +24,6 @@
     <footer>
     <i>@cryptocurrencies</i>
     </footer>
+
 </body>
 </html>

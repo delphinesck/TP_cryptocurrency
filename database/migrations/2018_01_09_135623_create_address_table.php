@@ -17,6 +17,7 @@ class CreateAddressTable extends Migration
             $table->increments('id');
             $table->integer('user_id');
             $table->string('address');
+            $table->integer('solde');
             $table->timestamps();
         });
     }
