@@ -1,0 +1,22 @@
+/*********** COMMENTAIRES ALFONSO *************/
+
+Delphine bravo pour ce que tu as appris. Je vois que tu as un bug parceque il te manque probablement la vue home.blade.php
+
+Je parle de la route dans laquelle on arrive.
+
+Je me suis rendu compte que tu as appris la logique de Laravel du moins tu connais le cheminement route, controller, fonction, vue
+ainsi que les migrations et seed.
+
+Il faut que tu continues à travailler et quand tu trouves une erreur tu continues tes efforts pour trouver ce que ne vas pas.
+C'est un peu ça un programmeur, C'est celui qui resout les problèmes que ton bosses ne veut pas avoir affaire.
+
+Il faut que tu persevère aussi dans le langage orienté objet et continues à pratiquer. Continues à étudier même pendant
+ton stage.
+
+Il va falloir mettre en off ton portable qui est une vraie plaie pour la société actuelle. Merci steve jobs.
+
+J'espère que l'expérience t'auras amené des connaissances qui te serviront mais surtout ne t'arrêtes pas là il faut que tu continues à creuser.
+
+Bon courage pour la suite!
+
+Alfonso
